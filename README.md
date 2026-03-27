@@ -1,1 +1,1 @@
-# una-ihcux-lista05
+Este projeto implementa um conversor de moedas em C# no console, com foco em princípios de IHC e UX. Foram aplicadas heurísticas como visibilidade do status, informando o usuário sobre o processamento; prevenção de erros, com tratamento de exceções para entradas inválidas; e estética minimalista, utilizando cores e organização visual para melhorar a leitura. Além disso, há instruções claras para entrada de dados, tornando a interação mais simples e intuitiva.
