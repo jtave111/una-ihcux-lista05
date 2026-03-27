@@ -1,0 +1,14 @@
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/bin/Debug/net10.0/ConversorExpert
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/bin/Debug/net10.0/ConversorExpert.deps.json
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/bin/Debug/net10.0/ConversorExpert.runtimeconfig.json
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/bin/Debug/net10.0/ConversorExpert.dll
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/bin/Debug/net10.0/ConversorExpert.pdb
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/obj/Debug/net10.0/ConversorExpert.GeneratedMSBuildEditorConfig.editorconfig
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/obj/Debug/net10.0/ConversorExpert.AssemblyInfoInputs.cache
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/obj/Debug/net10.0/ConversorExpert.AssemblyInfo.cs
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/obj/Debug/net10.0/ConversorExpert.csproj.CoreCompileInputs.cache
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/obj/Debug/net10.0/ConversorExpert.dll
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/obj/Debug/net10.0/refint/ConversorExpert.dll
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/obj/Debug/net10.0/ConversorExpert.pdb
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/obj/Debug/net10.0/ConversorExpert.genruntimeconfig.cache
+/home/zero/dotnet-code/faculdade/LabDotnet/ConversorExpert/obj/Debug/net10.0/ref/ConversorExpert.dll
